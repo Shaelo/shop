@@ -1,0 +1,7 @@
+django
+djangorestframework
+psycopg2-binary
+pillow
+dj-config-url
+drf-yasg
+django-filter
